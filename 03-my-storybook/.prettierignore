@@ -1,0 +1,8 @@
+build
+.husky
+node_modules
+.env
+package*.json
+.vscode
+*.json
+.prettierrc*
